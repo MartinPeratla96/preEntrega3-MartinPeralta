@@ -1,0 +1,13 @@
+
+.header1{
+    background-color: map-get($map: $color, $key:segundo )
+}
+
+.header2{
+    background-color: map-get($map: $color, $key:primero );
+}
+
+.opciones {
+    margin: 0px 10px;
+    font-family: "Inria Sans", sans-serif
+}
