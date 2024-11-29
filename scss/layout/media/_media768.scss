@@ -1,0 +1,32 @@
+@media(min-width: 430px) and (max-width: 768px){
+   
+    .vacantecontainer {
+         flex-direction: column;
+         margin: 0 auto;
+    }
+ 
+    .section1 {
+         width: 100%;
+         height: 100%;
+    }
+    
+    .section2 {
+         width: 100%;
+         height: auto;
+    }
+ 
+    .filtro {
+         width: 100;
+         height: 100%;
+    }
+ 
+    .card-empleos {
+         width: 100%;
+         height: 100%;
+    }
+ 
+    .card-empleo {
+         width: 100%;
+         height: 100%;
+    }
+ }
